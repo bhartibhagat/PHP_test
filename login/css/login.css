@@ -7,13 +7,25 @@
 }
 .login {
 	background-image:url(../images/background.JPG);
-	padding-bottom:700px;
+	padding-bottom:100px;
 }
 .user{
 	padding-left:100px;
 	padding-top:50px;
 	width:100%;
 	color:white;
+}
+.user p{
+	font-size:30px;
+}
+.user input{
+	color:black;
+}
+ .pass input{
+	color:black;
+}
+.pass p{
+	font-size:30px;
 }
 .pass {
 	padding-left:100px;
@@ -34,8 +46,20 @@
 	padding-left:40px;
 }
 .log_1 {
-	padding-left:300px;
+	padding-left:270px;
 }
 .log {
 	padding-top:50px;
+}
+.other_1{
+	padding-left:385px;
+	padding-top:50px;
+}
+.other_2{
+	padding-left:100px;
+	padding-top:50px;
+}
+.other_2 span{
+	color:white;
+	font-size:20px;
 }
