@@ -1,0 +1,146 @@
+.upper_navigation {
+	display:inline-block;
+	width:100%;
+	background-color:black;
+}
+.address p{
+	color:white;
+}
+.phone p{
+	color:white;
+}
+.logo img{
+	width:100px;
+}
+.media_link ul li{
+	list-style-type:none;
+	float:left;
+	padding-left:40px;
+	color:white;
+}
+.logo span{
+	font-size:50px;
+	color:white;
+}
+.navbar-inverse {
+	background-color:transparent;
+	border-color:transparent;
+}
+.banner {
+	background-image:url(../images/banner.JPG);
+	padding-bottom:500px;
+}
+.banner_head h1{
+	text-align:center;
+	font-size:80px;
+	color:white;
+}
+.banner_head h2{
+	text-align:center;
+	color:white;
+}
+.button {
+	text-align:center;
+	padding-top:50px;
+}
+.service_head {
+	padding-top:200px;
+	padding-bottom:50px;
+}
+.service_head h2{
+	text-align:center;
+}
+.HISTORY {
+	padding-top:200px;
+}
+.heading p{
+	padding-top:30px;
+}
+.BUILDINGS {
+	padding-top:200px;
+}
+.first img{
+	width:100%;
+	margin:0px auto;
+}
+.second img{
+	width:100%;
+	margin:0px auto;
+}
+.third img{
+	width:100%;
+	margin:0px auto;
+}
+.fourth img{
+	width:100%;
+	margin:0px auto;
+}
+.first_1 img{
+	width:100%;
+	margin:0px auto;
+}
+.second_1 img{
+	width:100%;
+	margin:0px auto;
+}
+.third_1 img{
+	width:100%;
+	margin:0px auto;
+}
+.fourth_1 img{
+	width:100%;
+	margin:0px auto;
+}
+.RECENT {
+	padding-bottom:100px;
+}
+.recent_heading h2{
+	text-align:center;
+	padding-top:100px;
+}
+.recent_1 img{
+	width:100%;
+	margin:0px auto;
+}
+.recent_2 img{
+	width:100%;
+	margin:0px auto;
+}
+.recent_3 img{
+	width:100%;
+	margin:0px;
+}
+.CONSTRUCTION {
+	padding-top:200px;
+	background-image:url(../images/background.JPG);
+}
+.construct img{
+	width:30%;
+}
+.construct span{
+	font-size:20px;
+}
+.construct span{
+	padding-top:20px;
+}
+.construct p{
+	padding-top:20px;
+}
+.navigation {
+	padding-left:50px;
+	padding-bottom:120px;
+}
+.navigation h3{
+	padding-bottom:20px;
+}
+.navigation p{
+	padding-bottom:10px;
+}
+.link ul li{
+	list-style-type:none;
+	float:left;
+	padding-left:30px;
+	padding-bottom:40px;
+}
+
+	

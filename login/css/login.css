@@ -1,0 +1,41 @@
+.login_1 h1{
+	text-align:center;
+	color:white;
+}
+.image {
+	text-align:center;
+}
+.login {
+	background-image:url(../images/background.JPG);
+	padding-bottom:700px;
+}
+.user{
+	padding-left:100px;
+	padding-top:50px;
+	width:100%;
+	color:white;
+}
+.pass {
+	padding-left:100px;
+	padding-top:30px;
+	width:100%;
+	color:white;
+}
+.page {
+	padding-left:300px;
+}
+	input[type=text], input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+	padding-left:40px;
+}
+.log_1 {
+	padding-left:300px;
+}
+.log {
+	padding-top:50px;
+}
